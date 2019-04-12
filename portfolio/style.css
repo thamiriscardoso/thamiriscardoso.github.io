@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Pacifico');
+*{
+  margin:0;
+  padding:0;
+}
+*{
+  box-sizing:border-box;
+}
+
+body{
+  background-image:url(https://i.pinimg.com/originals/b1/f3/c0/b1f3c03cc244932220116f38a89d64d7.jpg);
+  font-family: 'Dancing Script', cursive;
+  font-size:35px;
+  
+}
+
+#conteudo{
+  background-color:#F8F8FF;
+  opacity:0.9;
+  margin:45px;
+  padding:70px;
+  border:10px solid #FFE4E1;
+}
+
+#nome{
+ font-family: 'Pacifico', cursive;
+ color:#000000;
+ font-size:50px;
+ text-align:center;
+}
+
+#subtitulo{
+  text-align:center;
+  color:#000000;
+}
+
+
