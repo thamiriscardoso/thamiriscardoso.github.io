@@ -7,13 +7,16 @@
   box-sizing:border-box;
 }
 
-body{
+body{	
+  font-family: 'Indie Flower', cursive;
   background-image:url(https://i.pinimg.com/originals/b1/f3/c0/b1f3c03cc244932220116f38a89d64d7.jpg);
   font-family: 'Dancing Script', cursive;
   font-size:35px;
-  
 }
 
+.container .mainNav{
+color:white;
+}
 #conteudo{
   background-color:#F8F8FF;
   opacity:0.9;
