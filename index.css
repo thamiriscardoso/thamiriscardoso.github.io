@@ -1,4 +1,9 @@
-.container .mainNav{
-    color:white;
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body{	
+  font-family: 'Indie Flower', cursive;	
 }
 
+.container .mainNav{
+color:white;
+}
